@@ -5,7 +5,7 @@ class Dog
   end
   
   def name=(new_name)
-    @n
+    @name = new_name
   
   
   
